@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "@distube/ytdl-core": "^4.16.3",
+    "axios": "^1.7.9",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "ffmpeg-static": "^5.2.0",
+    "isomorphic-unfetch": "^4.0.2",
+    "node-fetch": "^3.3.2",
+    "spotify-url-info": "^3.2.18",
+    "typescript": "^5.7.3",
+    "yt-search": "^2.12.1",
+    "ytdl-core": "^4.11.5",
+    "ytpl": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/yt-search": "^2.10.3"
+  }
+}
