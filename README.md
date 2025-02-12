@@ -40,10 +40,6 @@ node dist/index.js
 
 🖥 Hospedando 24/7
 
-Se quiser deixar o bot rodando o tempo todo, hospede em Railway, Replit ou VPS.Veja mais instruções no repositório!
-
-💡 Contribuição
-
-Sinta-se livre para abrir um Pull Request ou relatar problemas na aba Issues!
+Se quiser deixar o bot rodando o tempo todo, hospede em Railway, Replit ou VPS.
 
 
