@@ -32,6 +32,10 @@ node dist/index.js
 
 🛑 ap!stop → Para tudo e limpa a fila
 
+▶ ap!resume → Para dar play na música depois do pause
+
+⏸ ap!pause → Para pausar a música
+
 📜 ap!queue → Mostra a fila de músicas
 
 🚫 ap!exit → Desconecta o bot da call
